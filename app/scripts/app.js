@@ -4,5 +4,9 @@ import AppRoot from './views/app_root.js'
 
 export default function app() {
 
-  render(<AppRoot />, document.querySelector('#app'));
+  render(
+    <AppRoot />,
+    document.querySelector('#app')
+  );
+  
 }

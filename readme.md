@@ -12,10 +12,14 @@
 #### Checkboxes
 
 - [ ] 5 Blog posts
+
 - [ ] Component: Top Level App
+
 - [ ] Component: New Post Form
   - [ ] Input for Title
   - [ ] Text Area for Body
+
 - [ ] Button that makes each post collapse
   - [ ] Using Local State?
+
 - [ ] Style It
