@@ -1,5 +1,5 @@
 import React from 'react'
-import BlogBody from './blog_body'
+// import BlogBody from './blog_body'
 import BlogPost from './blog_post'
 import PostForm from './post_form'
 import BlogBodyCorrect from './test2'

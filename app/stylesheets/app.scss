@@ -29,10 +29,14 @@ button {
   background: $color-darkteal;
   border: none;
   box-shadow: 3px 3px $color-lightteal;
+  margin-bottom: 1rem;
 }
 button:hover {
   color: $color-almostblack;
   background: $color-lightteal;
   box-shadow: 3px 3px $color-darkteal;
 
+}
+.hide-article {
+  display: none;
 }
