@@ -11,9 +11,9 @@
 
 #### Checkboxes
 
-- [ ] 5 Blog posts
+- [X] 5 Blog posts
 
-- [ ] Component: Top Level App
+- [X] Component: Top Level App
 
 - [ ] Component: New Post Form
   - [ ] Input for Title
