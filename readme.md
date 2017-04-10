@@ -11,13 +11,14 @@
 
 #### Checkboxes
 
-- [X] 5 Blog posts
+- [ ] 5 Blog posts
+  - [ ] data should be props that are passed in
 
 - [X] Component: Top Level App
 
-- [ ] Component: New Post Form
-  - [ ] Input for Title
-  - [ ] Text Area for Body
+- [X] Component: New Post Form
+  - [X] Input for Title
+  - [X] Text Area for Body
 
 - [ ] Button that makes each post collapse
   - [ ] Using Local State?
